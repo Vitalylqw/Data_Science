@@ -2,6 +2,10 @@
 
 https://www.kaggle.com/c/realestatepriceprediction/leaderboard
 
+Рабочий ноутбук my_work.ipynb
+
+Закоментированный код это обучение и формирование файлов дл очередной попытки на kaggle
+
 Предсказание стоиомости недвижимтости
 
 Data fields:
